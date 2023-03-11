@@ -2,7 +2,7 @@ A Simon game in made using JQuery
 
 Rules:
 
-1.Press any key to start the game
+1.Press any key to start the game 
 2.Randomly will the any of the buttons will be automically be pressed
 3.Click the button that was randomly selected
 4.Step 2 gets repeated automatically
